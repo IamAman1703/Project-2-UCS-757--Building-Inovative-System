@@ -7,3 +7,4 @@ Screen Shots of the project are attached below:
 Once it is trained well, then the successs rate/score doesn't change much indicating the optimal path has been found to rewach the target location. 
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/77916532/137442815-720a5692-a3ac-4b0f-b644-18df94382567.png)
+
